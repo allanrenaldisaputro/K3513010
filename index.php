@@ -1,5 +1,6 @@
 <?php
 //komentar10
+//komentar_teman_38
 /*
  *---------------------------------------------------------------
  * APPLICATION ENVIRONMENT
